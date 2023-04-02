@@ -1,5 +1,9 @@
 # How Can a Wellness Technology Company Play It Smart?
 
+
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/55188228/229325026-3e1a71c8-0044-4466-902c-33701d089ce6.png">
+
+
 ## About the company
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products.
 Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around
